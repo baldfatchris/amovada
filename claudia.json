@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "amovada-executor",
+    "name": "amovada",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "echp3gs832",
+    "module": "app"
+  }
+}
